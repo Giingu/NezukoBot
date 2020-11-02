@@ -6,4 +6,4 @@ Invite: <a href="https://discordapp.com/api/oauth2/authorize?client_id=623481583
 <a href="https://top.gg/bot/623481583411658753">
     <img src="https://top.gg/api/widget/623481583411658753.svg" alt="Nezuko Bot" />
 </a><img src="https://botsfordiscord.com/api/bot/623481583411658753/widget?theme=dark&height=140&width=380">
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T423C5Y)
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T423C5Y)]
