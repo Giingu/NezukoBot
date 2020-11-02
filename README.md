@@ -10,4 +10,4 @@ Invite: <a href="https://discordapp.com/api/oauth2/authorize?client_id=623481583
 <h1>Donate:
 
 <a href='https://patreon.com/nezukobot' target='_blank'><img height='56' style='border:0px;height:56px;' src='https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dnezukobot%26type%3Dpledges&style=for-the-badge' border='0' alt='Become a Patron' /></a>
-<a href='https://ko-fi.com/T6T423C5Y' target='_blank'><img height='59' style='border:0px;height:59px;' src='https://cdn.ko-fi.com/cdn/kofi4.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a></h1> 
+<a href='https://ko-fi.com/T6T423C5Y' target='_blank'><img height='59' style='border:10px;height:59px;' src='https://cdn.ko-fi.com/cdn/kofi4.png?v=2' border='10' alt='Buy Me a Coffee at ko-fi.com' /></a></h1> 
