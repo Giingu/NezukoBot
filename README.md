@@ -6,4 +6,5 @@ Invite: <a href="https://discordapp.com/api/oauth2/authorize?client_id=623481583
 <a href="https://top.gg/bot/623481583411658753">
     <img src="https://top.gg/api/widget/623481583411658753.svg" alt="Nezuko Bot" />
 </a><img src="https://botsfordiscord.com/api/bot/623481583411658753/widget?theme=dark&height=140&width=380">
-<a href='https://ko-fi.com/T6T423C5Y' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href="https://www.patreon.com/bePatron?u=25041687" data-patreon-widget-type="become-patron-button">Become a Patron!</a>
+<a href='https://ko-fi.com/T6T423C5Y' target='_blank'><img height='56' style='border:0px;height:56px;' src='https://cdn.ko-fi.com/cdn/kofi4.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
