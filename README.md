@@ -1,5 +1,7 @@
 
 <img alt="Discord" src="https://img.shields.io/discord/624217127540359188?label=DISCORD&style=for-the-badge">
+<img alt="Twitch Status" src="https://img.shields.io/twitch/status/giingu?color=6441a5&logo=6441a5&logoColor=%236441a5&style=for-the-badge">
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Giinguz?style=social">
 <h1>NezukoBot
 Invite: <a href="https://discordapp.com/api/oauth2/authorize?client_id=623481583411658753&permissions=2147478775&redirect_uri=https%3A%2F%2Fdiscord.gg%2Fsz4qDtu&response_type=code&scope=bot%20guilds.join">Click Here</a></h1>
 
